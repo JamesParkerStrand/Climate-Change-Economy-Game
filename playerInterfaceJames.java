@@ -45,7 +45,7 @@ public class playerInterfaceJames {
 
 					int moneySpent = tiles.doShoppingLoop(s, moneyYouHave);
 					
-					moneyYouHave -= moneySpent;
+					moneyYouHave = moneySpent;
 
 					System.out.println(tiles.tileBusinesses);
 
