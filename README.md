@@ -4,3 +4,9 @@ part of a group project I am doing for computer science/ individual political sc
 look at playerinterfaceJames for the game loop!
 
 UPDATE ** I've got some kind of playable game loop going on, although numbers could be adjusted if needed to suit a smoother gameplay experience **
+
+Authors: 
+- Matthew Ngatia
+- Kaitlin Peterson
+- Conor Rosenberger
+- James Strand
