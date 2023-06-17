@@ -3,4 +3,4 @@ part of a group project I am doing for computer science/ individual political sc
 
 look at playerinterfaceJames for the game loop!
 
-UPDATE ** added decision to do tax loop or not, just to add an impression of what the game will do throughout the whole thing, and that will act as one of the random choices happening throughout the game, which has you choose a decision to your environment everytime something happens, or just on whims **
+UPDATE ** I've got some kind of playable game loop going on, although numbers could be adjusted if needed to suit a smoother gameplay experience **
